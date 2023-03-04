@@ -3,8 +3,8 @@
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #f2f2f2;
-  /* background-image: url(./images/My\ project-1.png);
-  background-size: 1000px; */
+ background-image: url(./bg-image.png);
+  background-size: 1000px;
 }
 
 
@@ -27,7 +27,7 @@ body {
 {
   font-weight: 600;
 
-  color: #3f3f3f; 
+  color: white; 
   text-align: center;
   margin-top: 150px;
 }
